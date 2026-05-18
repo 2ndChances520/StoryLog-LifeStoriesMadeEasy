@@ -25,8 +25,9 @@ It will instantly open in your default web browser (Chrome, Edge, Safari, etc.) 
 
 🗑️ How to Erase Your Data
 StoryLog uses your web browser's "Local Storage" to remember your stories even after you close the window. If you want to completely wipe all your stories and start fresh, you just need to clear your browser's site data.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Note: Because this data is only stored in your browser, clearing your data means the stories are gone forever. Make sure to copy and paste any stories you want to keep into a Word document first!
-
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
 To clear your data:
