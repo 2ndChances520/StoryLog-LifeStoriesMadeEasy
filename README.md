@@ -1,5 +1,5 @@
 📝 StoryLog by Turbocat
-StoryLog is a simple, beautiful, and completely offline digital journal created to help capture life stories. It was originally coded by a son for his grandpa to help him write down his memories!
+StoryLog is a simple, beautiful, and completely offline digital journal created to help capture life stories. It was originally coded by my son for his grandpa to help him write down his memories!
 
 
 Everything runs locally right in your web browser. There are no servers, no logins, and no internet connection required.
