@@ -1,3 +1,6 @@
+
+
+<div align="center">
 📖 StoryLog
 by Turbocat
 ![alt text](https://img.shields.io/badge/JavaScript-Vanilla-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
