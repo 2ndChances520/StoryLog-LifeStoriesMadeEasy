@@ -1,17 +1,5 @@
 
 
-<div align="center">
-📖 StoryLog
-by Turbocat
-![alt text](https://img.shields.io/badge/JavaScript-Vanilla-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![alt text](https://img.shields.io/badge/Dependencies-0-4ade80?style=for-the-badge)
-
-![alt text](https://img.shields.io/badge/Data-Local_Storage-3b82f6?style=for-the-badge)
-</div>
-<br>
-StoryLog is a lightweight, ultra-fast journaling and chronicle system housed in a single HTML file. Despite its cheeky "React.JS Chronicle System" subtitle, StoryLog is built with 100% Vanilla JavaScript and CSS—meaning no build steps, no external frameworks, and no bloat.
-It features a beautiful glassmorphism UI, seamless local data persistence, and 10 dynamic color themes to match your writing mood.
 ✨ Features
 🎨 10 Dynamic Themes: Change the vibe instantly. Choose from lush gradient mixes (Sunset, Ocean, Forest, Midnight, Cyberpunk) or clean solid colors (Slate, Mint, Lilac, Peach).
 💾 Persistent Local Storage: Your stories are yours. Everything is saved directly to your browser's localStorage. No databases, no servers, zero privacy concerns.
@@ -38,7 +26,3 @@ Data Storage: Local browser cache via JSON.stringify() and JSON.parse() on local
 📜 Credits
 Designed and Engineered by Turbocat 🐾
 Built with 💜 and pure Vanilla JS.
-<br>
-<div align="center">
-<sub><i>"Chronicle your thoughts. Keep it local."</i></sub>
-</div>
